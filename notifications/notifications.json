@@ -1,11 +1,11 @@
 [
   
   {
-    "id": "banner_018",
+    "id": "banner_019",
     "type": "carousel", 
     "title": "Ramadan Sale",
     "message": "Big Discounts!",
-    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo5.png",
+    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo6.png",
     "link_url": "https://google.com",
     "date": "2026-05-11T10:00:00Z"
   },
