@@ -1,1 +1,10 @@
-
+[
+  {
+    "id": "1",
+    "title": "SmartLink POS is Ready!",
+    "message": "Welcome to the NextGen Ecosystem. Your FBR-integrated POS is now connected to the asset cloud.",
+    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/welcome.png",
+    "link_url": "https://github.com/Hameedalii/smartlink-assets",
+    "date": "2026-05-11T10:00:00Z"
+  }
+]
