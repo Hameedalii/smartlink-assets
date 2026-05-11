@@ -1,15 +1,23 @@
 [
   {
-    "id": "welcome_onboarding",
-    "title": "Welcome to SmartLink POS",
+    "id": "8",
+    "title": "SmartLink POS is Ready!",
     "message": "Welcome to the NextGen Ecosystem. Your FBR-integrated POS is now connected to the asset cloud.",
     "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/welcome.png",
     "link_url": "https://github.com/Hameedalii/smartlink-assets",
     "date": "2026-05-11T10:00:00Z"
   },
   {
-    "id": "6",
+    "id": "7",
     "title": "SmartLink POS is Ready!",
+    "message": "Welcome to the NextGen Ecosystem. Your FBR-integrated POS is now connected to the asset cloud.",
+    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/welcome.png",
+    "link_url": "https://github.com/Hameedalii/smartlink-assets",
+    "date": "2026-05-11T10:00:00Z"
+  },
+  {
+    "id": "welcome_onboarding",
+    "title": "Welcome to SmartLink POS",
     "message": "Welcome to the NextGen Ecosystem. Your FBR-integrated POS is now connected to the asset cloud.",
     "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/welcome.png",
     "link_url": "https://github.com/Hameedalii/smartlink-assets",
