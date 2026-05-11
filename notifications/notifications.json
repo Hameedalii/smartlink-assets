@@ -1,16 +1,16 @@
 [
   {
-    "id": "fbr_001",
+    "id": "fbr_011",
     "title": "FBR Setup",
     "message": "Watch this guide to sync your POS.",
     "link_url": "https://www.youtube.com/watch?v=2nuN3bCblZg", 
     "date": "2026-05-11T10:00:00Z"
   },
   {
-    "id": "tax_update",
+    "id": "tax_update1",
     "title": "Tax Rate Change",
     "message": "The sales tax has been updated to 18%.",
-    "link_url": "https://youtu.be/gLptmcuCx6Q?si=u3ktWXImVFhE5Sow", 
+    "link_url": "https://chat.deepseek.com/", 
     "date": "2026-05-11T11:00:00Z"
   },
   {
