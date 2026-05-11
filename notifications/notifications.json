@@ -1,8 +1,16 @@
 [
   
-  
+  {
+    "id": "banner_018",
+    "type": "carousel", 
+    "title": "Ramadan Sale",
+    "message": "Big Discounts!",
+    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo5.png",
+    "link_url": "https://google.com",
+    "date": "2026-05-11T10:00:00Z"
+  },
    {
-    "id": "banner_009",
+    "id": "banner_017",
     "type": "carousel", 
     "title": "Ramadan Sale",
     "message": "Big Discounts!",
@@ -11,7 +19,7 @@
     "date": "2026-05-11T10:00:00Z"
   },
   {
-    "id": "banner_010",
+    "id": "banner_016",
     "type": "carousel", 
     "title": "Ramadan Sale",
     "message": "Big Discounts!",
@@ -20,7 +28,7 @@
     "date": "2026-05-11T10:00:00Z"
   },
   {
-    "id": "banner_011",
+    "id": "banner_015",
     "type": "carousel", 
     "title": "Ramadan Sale",
     "message": "Big Discounts!",
@@ -29,7 +37,7 @@
     "date": "2026-05-11T10:00:00Z"
   },
   {
-    "id": "banner_012",
+    "id": "banner_014",
     "type": "carousel", 
     "title": "Ramadan Sale",
     "message": "Big Discounts!",
@@ -38,7 +46,7 @@
     "date": "2026-05-11T10:00:00Z"
   },
   {
-    "id": "notif_0011",
+    "id": "notif_0013",
     "type": "general",
     "title": "System Update",
     "message": "FBR integration is now live.",
