@@ -1,19 +1,17 @@
 [
   {
-  "id": "ShahidAnwar_001",
-  "title": "Watch Shahid Anwar Mountain Video",
-  "message": "Welcome to the NextGen Ecosystem. Your FBR-integrated POS is now connected to the asset cloud. Click to watch the setup guide.",
-  "image_url": null,
-  "link_url": "https://youtu.be/2nuN3bCblZg?si=YBbmkmGabg4J5yVo",
-  "date": "2026-05-11T10:00:00Z"
+    "id": "fbr_001",
+    "title": "FBR Setup",
+    "message": "Watch this guide to sync your POS.",
+    "link_url": "https://www.youtube.com/watch?v=2nuN3bCblZg", 
+    "date": "2026-05-11T10:00:00Z"
   },
   {
-    "id": "12",
-    "title": "SmartLink POS is Ready!",
-    "message": "Welcome to the NextGen Ecosystem. https://youtu.be/2nuN3bCblZg?si=YBbmkmGabg4J5yVo Your FBR-integrated POS is now connected to the asset cloud.",
-    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/welcome.png",
-    "link_url": "https://github.com/Hameedalii/smartlink-assets",
-    "date": "2026-05-11T10:00:00Z"
+    "id": "tax_update",
+    "title": "Tax Rate Change",
+    "message": "The sales tax has been updated to 18%.",
+    "link_url": "https://youtu.be/gLptmcuCx6Q?si=u3ktWXImVFhE5Sow", 
+    "date": "2026-05-11T11:00:00Z"
   },
   {
     "id": "welcome_onboarding",
