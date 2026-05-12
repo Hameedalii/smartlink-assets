@@ -1,29 +1,29 @@
 [
   
   {
-    "id": "banner_020",
+    "id": "banner_029",
     "type": "carousel", 
     "title": "Ramadan Sale",
     "message": "Big Discounts!",
-    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo7.png",
+    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo1.png",
     "link_url": "https://google.com",
     "date": "2026-05-11T10:00:00Z"
   },
    {
-    "id": "banner_021",
+    "id": "banner_028",
     "type": "carousel", 
     "title": "Ramadan Sale",
     "message": "Big Discounts!",
-    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo8.png",
+    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo1.png",
     "link_url": "https://google.com",
     "date": "2026-05-11T10:00:00Z"
   },
   {
-    "id": "banner_022",
+    "id": "banner_027",
     "type": "carousel", 
     "title": "Ramadan Sale",
     "message": "Big Discounts!",
-    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo9.png",
+    "image_url": "https://raw.githubusercontent.com/Hameedalii/smartlink-assets/main/images/promo1.png",
     "link_url": "https://google.com",
     "date": "2026-05-11T10:00:00Z"
   },
